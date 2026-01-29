@@ -38,8 +38,10 @@ Passionnée par le développement web, j’aime construire des applications **pr
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Activité GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariaz00&show_icons=true&theme=tokyonight&hide_rank=true" />
-</p>
+- Utilisation régulière de GitHub depuis 2024
+- Projets personnels et professionnels en JavaScript, Node.js, React, etc.
+- Commits fréquents montrant ma progression et ma rigueur
+- Alternant en développement web, en constante montée en compétences
+
