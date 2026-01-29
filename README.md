@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Salut, moi c’est Alyzée </h1>
+<h3 align="center">Développeuse Web Full Stack Junior</h3>
 
-<!--
-**Ariaz00/Ariaz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 À propos de moi
+🎓 Développeuse web **junior**, actuellement en **recherche de nouvoulles expériences**.  
+Passionnée par le développement web, j’aime construire des applications **propres, fonctionnelles et bien structurées**, aussi bien côté front que back.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Je cherche un **poste de développeur web / full stack junior** pour continuer à progresser et apporter de la valeur à une équipe.
+
+---
+
+### 🛠️ Stack technique
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,typescript,nextjs,nodejs,express,docker,mysql,mongodb,prisma,git,github,figma" />
+</p>
+
+**Technos que j’utilise régulièrement :**
+- Frontend : HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite
+- Backend : Node.js, Express
+- Base de données : MySQL, MongoDB
+- ORM : Prisma
+- Conteneurisation : Docker
+- Outils : Git, GitHub, Figma
+
+**En cours d’apprentissage :**
+- PHP, Laravel ...
+
+---
+
+### 🌐 Me contacter
+<p align="left">
+  <a href="mailto:alyzee.carpentier@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariaz00&show_icons=true&theme=tokyonight&hide_rank=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariaz00&theme=tokyonight" />
+</p>
+
