@@ -39,11 +39,11 @@ Passionnée par le développement web, j’aime construire des applications **pr
 ---
 
 ### 📊 Statistiques GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariaz00&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariaz00&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariaz00&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ariaz00&theme=tokyonight&cache_seconds=86400" />
 </p>
-
